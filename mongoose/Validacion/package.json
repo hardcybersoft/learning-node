@@ -1,0 +1,15 @@
+{
+  "name": "validacion",
+  "version": "1.0.0",
+  "description": "Ejemplos de validación y valores por defecto con Mongoose",
+  "main": "validar.js",
+  "scripts": {
+    "start": "node validar"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "mongoose": "^4.5.10"
+  }
+}
