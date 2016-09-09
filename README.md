@@ -7,3 +7,4 @@ Many examples de how use Node JS and MongoDB.
 * Mongoose
 * Mongoose Validation
 * Crypto
+* Passport
